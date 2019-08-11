@@ -53,20 +53,9 @@ U 1 1 5C22C971
 P 5150 1500
 F 0 "SW2" H 5150 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 5150 1664 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.25u-reversible" H 5150 1500 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 5150 1500 50  0001 C CNN
 F 3 "" H 5150 1500 50  0000 C CNN
 	1    5150 1500
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW5
-U 1 1 5C22CA22
-P 5950 1500
-F 0 "SW5" H 5950 1755 50  0000 C CNN
-F 1 "SW_PUSH" H 5950 1664 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 5950 1500 50  0001 C CNN
-F 3 "" H 5950 1500 50  0000 C CNN
-	1    5950 1500
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -75,7 +64,7 @@ U 1 1 5C22CA58
 P 6750 1500
 F 0 "SW8" H 6750 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 6750 1664 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 6750 1500 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 6750 1500 50  0001 C CNN
 F 3 "" H 6750 1500 50  0000 C CNN
 	1    6750 1500
 	1    0    0    -1  
@@ -86,7 +75,7 @@ U 1 1 5C22CA92
 P 7550 1500
 F 0 "SW11" H 7550 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 7550 1664 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 7550 1500 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 7550 1500 50  0001 C CNN
 F 3 "" H 7550 1500 50  0000 C CNN
 	1    7550 1500
 	1    0    0    -1  
@@ -97,7 +86,7 @@ U 1 1 5C22CAFE
 P 8350 1500
 F 0 "SW14" H 8350 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 8350 1664 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 8350 1500 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 8350 1500 50  0001 C CNN
 F 3 "" H 8350 1500 50  0000 C CNN
 	1    8350 1500
 	1    0    0    -1  
@@ -108,7 +97,7 @@ U 1 1 5C22CB3A
 P 9150 1500
 F 0 "SW17" H 9150 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 9150 1664 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 9150 1500 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 9150 1500 50  0001 C CNN
 F 3 "" H 9150 1500 50  0000 C CNN
 	1    9150 1500
 	1    0    0    -1  
@@ -187,7 +176,7 @@ U 1 1 5C22DF47
 P 5150 2150
 F 0 "SW3" H 5150 2405 50  0000 C CNN
 F 1 "SW_PUSH" H 5150 2314 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 5150 2150 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.25u-irreversible" H 5150 2150 50  0001 C CNN
 F 3 "" H 5150 2150 50  0000 C CNN
 	1    5150 2150
 	1    0    0    -1  
@@ -198,7 +187,7 @@ U 1 1 5C22DF4E
 P 5950 2150
 F 0 "SW6" H 5950 2405 50  0000 C CNN
 F 1 "SW_PUSH" H 5950 2314 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 5950 2150 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 5950 2150 50  0001 C CNN
 F 3 "" H 5950 2150 50  0000 C CNN
 	1    5950 2150
 	1    0    0    -1  
@@ -209,7 +198,7 @@ U 1 1 5C22DF55
 P 6750 2150
 F 0 "SW9" H 6750 2405 50  0000 C CNN
 F 1 "SW_PUSH" H 6750 2314 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 6750 2150 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 6750 2150 50  0001 C CNN
 F 3 "" H 6750 2150 50  0000 C CNN
 	1    6750 2150
 	1    0    0    -1  
@@ -220,7 +209,7 @@ U 1 1 5C22DF5C
 P 7550 2150
 F 0 "SW12" H 7550 2405 50  0000 C CNN
 F 1 "SW_PUSH" H 7550 2314 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 7550 2150 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 7550 2150 50  0001 C CNN
 F 3 "" H 7550 2150 50  0000 C CNN
 	1    7550 2150
 	1    0    0    -1  
@@ -231,7 +220,7 @@ U 1 1 5C22DF63
 P 8350 2150
 F 0 "SW15" H 8350 2405 50  0000 C CNN
 F 1 "SW_PUSH" H 8350 2314 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 8350 2150 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 8350 2150 50  0001 C CNN
 F 3 "" H 8350 2150 50  0000 C CNN
 	1    8350 2150
 	1    0    0    -1  
@@ -242,7 +231,7 @@ U 1 1 5C22DF6A
 P 9150 2150
 F 0 "SW18" H 9150 2405 50  0000 C CNN
 F 1 "SW_PUSH" H 9150 2314 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 9150 2150 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 9150 2150 50  0001 C CNN
 F 3 "" H 9150 2150 50  0000 C CNN
 	1    9150 2150
 	1    0    0    -1  
@@ -321,7 +310,7 @@ U 1 1 5C22E1E3
 P 5150 2800
 F 0 "SW4" H 5150 3055 50  0000 C CNN
 F 1 "SW_PUSH" H 5150 2964 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 5150 2800 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.50u-irreversible" H 5150 2800 50  0001 C CNN
 F 3 "" H 5150 2800 50  0000 C CNN
 	1    5150 2800
 	1    0    0    -1  
@@ -332,7 +321,7 @@ U 1 1 5C22E1EA
 P 5950 2800
 F 0 "SW7" H 5950 3055 50  0000 C CNN
 F 1 "SW_PUSH" H 5950 2964 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 5950 2800 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 5950 2800 50  0001 C CNN
 F 3 "" H 5950 2800 50  0000 C CNN
 	1    5950 2800
 	1    0    0    -1  
@@ -343,7 +332,7 @@ U 1 1 5C22E1F1
 P 6750 2800
 F 0 "SW10" H 6750 3055 50  0000 C CNN
 F 1 "SW_PUSH" H 6750 2964 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 6750 2800 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 6750 2800 50  0001 C CNN
 F 3 "" H 6750 2800 50  0000 C CNN
 	1    6750 2800
 	1    0    0    -1  
@@ -354,7 +343,7 @@ U 1 1 5C22E1F8
 P 7550 2800
 F 0 "SW13" H 7550 3055 50  0000 C CNN
 F 1 "SW_PUSH" H 7550 2964 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 7550 2800 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 7550 2800 50  0001 C CNN
 F 3 "" H 7550 2800 50  0000 C CNN
 	1    7550 2800
 	1    0    0    -1  
@@ -365,7 +354,7 @@ U 1 1 5C22E1FF
 P 8350 2800
 F 0 "SW16" H 8350 3055 50  0000 C CNN
 F 1 "SW_PUSH" H 8350 2964 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.00u-reversible" H 8350 2800 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 8350 2800 50  0001 C CNN
 F 3 "" H 8350 2800 50  0000 C CNN
 	1    8350 2800
 	1    0    0    -1  
@@ -376,7 +365,7 @@ U 1 1 5C22E206
 P 9150 2800
 F 0 "SW19" H 9150 3055 50  0000 C CNN
 F 1 "SW_PUSH" H 9150 2964 50  0000 C CNN
-F 2 "phi-kbd-library:MX_1.25u-reversible" H 9150 2800 50  0001 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 9150 2800 50  0001 C CNN
 F 3 "" H 9150 2800 50  0000 C CNN
 	1    9150 2800
 	1    0    0    -1  
@@ -453,10 +442,6 @@ Text GLabel 5650 1300 1    50   Input ~ 0
 col1
 Text GLabel 6450 1300 1    50   Input ~ 0
 col2
-Wire Wire Line
-	14150 1000 14150 -350
-Wire Wire Line
-	14150 -350 14900 -350
 Text GLabel 7250 1300 1    50   Input ~ 0
 col3
 Text GLabel 8050 1300 1    50   Input ~ 0
@@ -488,8 +473,6 @@ NoConn ~ 1750 2200
 NoConn ~ 1750 2300
 Text GLabel 1750 2000 0    50   Input ~ 0
 row2
-Text GLabel 1750 2100 0    50   Input ~ 0
-row3
 Text GLabel 3150 1600 2    50   Input ~ 0
 col0
 Wire Wire Line
@@ -548,7 +531,7 @@ U 1 1 5C2CD64F
 P 1550 3150
 F 0 "J1" H 1580 3426 50  0000 C CNN
 F 1 "MJ-4PP-9" H 1580 3335 50  0000 C CNN
-F 2 "phi-kbd-library:MJ-4PP-9-reversible" H 1825 3325 50  0001 C CNN
+F 2 "phi-kbd-library:MJ-4PP-9-irreversible" H 1825 3325 50  0001 C CNN
 F 3 "~" H 1825 3325 50  0001 C CNN
 	1    1550 3150
 	1    0    0    -1  
@@ -581,24 +564,13 @@ data
 Text GLabel 1750 1300 0    50   Input ~ 0
 data
 Wire Wire Line
-	4850 1300 4850 1500
-Connection ~ 4850 1500
-Wire Wire Line
-	4850 1500 4850 2150
-Connection ~ 4850 2150
-Wire Wire Line
-	4850 2150 4850 2800
-Wire Wire Line
-	5650 1300 5650 1500
-Connection ~ 5650 1500
-Wire Wire Line
-	5650 1500 5650 2150
+	4850 1300 4850 1375
 Connection ~ 6250 1800
 Wire Wire Line
 	6250 1800 7050 1800
 Connection ~ 5650 2150
 Wire Wire Line
-	5650 2150 5650 2800
+	5650 2150 5650 2675
 Connection ~ 6250 2450
 Wire Wire Line
 	6250 2450 7050 2450
@@ -606,10 +578,10 @@ Connection ~ 6250 3100
 Wire Wire Line
 	6250 3100 7050 3100
 Wire Wire Line
-	6450 1300 6450 1500
+	6450 1300 6450 1375
 Connection ~ 6450 1500
 Wire Wire Line
-	6450 1500 6450 2150
+	6450 1500 6450 2025
 Connection ~ 7050 1800
 Wire Wire Line
 	7050 1800 7850 1800
@@ -617,16 +589,16 @@ Connection ~ 7050 3100
 Wire Wire Line
 	7050 3100 7850 3100
 Wire Wire Line
-	7250 1300 7250 1500
+	7250 1300 7250 1375
 Connection ~ 7250 1500
 Wire Wire Line
-	7250 1500 7250 2150
+	7250 1500 7250 2025
 Connection ~ 7850 1800
 Wire Wire Line
 	7850 1800 8650 1800
 Connection ~ 7250 2150
 Wire Wire Line
-	7250 2150 7250 2800
+	7250 2150 7250 2675
 Connection ~ 7850 2450
 Wire Wire Line
 	7850 2450 8650 2450
@@ -634,16 +606,16 @@ Connection ~ 7850 3100
 Wire Wire Line
 	7850 3100 8650 3100
 Wire Wire Line
-	8050 1300 8050 1500
+	8050 1300 8050 1375
 Connection ~ 8050 1500
 Wire Wire Line
-	8050 1500 8050 2150
+	8050 1500 8050 2025
 Connection ~ 8650 1800
 Wire Wire Line
 	8650 1800 9450 1800
 Connection ~ 8050 2150
 Wire Wire Line
-	8050 2150 8050 2800
+	8050 2150 8050 2675
 Connection ~ 8650 2450
 Wire Wire Line
 	8650 2450 9450 2450
@@ -651,13 +623,13 @@ Connection ~ 8650 3100
 Wire Wire Line
 	8650 3100 9450 3100
 Wire Wire Line
-	8850 1300 8850 1500
+	8850 1300 8850 1375
 Connection ~ 8850 1500
 Wire Wire Line
-	8850 1500 8850 2150
+	8850 1500 8850 2025
 Connection ~ 8850 2150
 Wire Wire Line
-	8850 2150 8850 2800
+	8850 2150 8850 2675
 Wire Wire Line
 	4750 1800 5450 1800
 Connection ~ 5450 1800
@@ -716,16 +688,396 @@ F 3 "~" H 2625 3125 50  0001 C CNN
 $EndComp
 Connection ~ 6450 2150
 Wire Wire Line
-	6450 2150 6450 2800
+	6450 2150 6450 2675
 Connection ~ 7050 2450
 Wire Wire Line
 	7050 2450 7850 2450
 NoConn ~ 3150 1200
-NoConn ~ 1750 1600
-NoConn ~ 1750 1700
 Wire Wire Line
 	4750 3100 5450 3100
 Connection ~ 5450 3100
 NoConn ~ 1750 1200
-NoConn ~ 3150 2200
+NoConn ~ 1750 2100
+Text GLabel 3150 2200 2    50   Input ~ 0
+col6
+$Comp
+L kbd:SW_PUSH SW21
+U 1 1 5D3A54CF
+P 5150 2025
+F 0 "SW21" H 5150 2280 50  0000 C CNN
+F 1 "SW_PUSH" H 5150 2189 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.25u-irreversible" H 5150 2025 50  0001 C CNN
+F 3 "" H 5150 2025 50  0000 C CNN
+	1    5150 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW22
+U 1 1 5D3A6082
+P 5150 2675
+F 0 "SW22" H 5150 2930 50  0000 C CNN
+F 1 "SW_PUSH" H 5150 2839 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.50u-irreversible" H 5150 2675 50  0001 C CNN
+F 3 "" H 5150 2675 50  0000 C CNN
+	1    5150 2675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5450 2025 5450 2150
+Connection ~ 5450 2150
+Wire Wire Line
+	5450 2675 5450 2800
+Connection ~ 5450 2800
+$Comp
+L kbd:SW_PUSH SW23
+U 1 1 5D3A88D0
+P 5150 1375
+F 0 "SW23" H 5150 1630 50  0000 C CNN
+F 1 "SW_PUSH" H 5150 1539 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.50u-irreversible" H 5150 1375 50  0001 C CNN
+F 3 "" H 5150 1375 50  0000 C CNN
+	1    5150 1375
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW24
+U 1 1 5D3A94FA
+P 5950 2025
+F 0 "SW24" H 5950 2280 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 2189 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 5950 2025 50  0001 C CNN
+F 3 "" H 5950 2025 50  0000 C CNN
+	1    5950 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW25
+U 1 1 5D3AA251
+P 5950 2675
+F 0 "SW25" H 5950 2930 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 2839 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 5950 2675 50  0001 C CNN
+F 3 "" H 5950 2675 50  0000 C CNN
+	1    5950 2675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 2025 6250 2150
+Connection ~ 6250 2150
+Wire Wire Line
+	6250 2675 6250 2800
+Connection ~ 6250 2800
+$Comp
+L kbd:SW_PUSH SW26
+U 1 1 5D3AEE86
+P 6750 1375
+F 0 "SW26" H 6750 1630 50  0000 C CNN
+F 1 "SW_PUSH" H 6750 1539 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 6750 1375 50  0001 C CNN
+F 3 "" H 6750 1375 50  0000 C CNN
+	1    6750 1375
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW27
+U 1 1 5D3AFAD7
+P 6750 2025
+F 0 "SW27" H 6750 2280 50  0000 C CNN
+F 1 "SW_PUSH" H 6750 2189 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 6750 2025 50  0001 C CNN
+F 3 "" H 6750 2025 50  0000 C CNN
+	1    6750 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW28
+U 1 1 5D3B07FE
+P 6750 2675
+F 0 "SW28" H 6750 2930 50  0000 C CNN
+F 1 "SW_PUSH" H 6750 2839 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 6750 2675 50  0001 C CNN
+F 3 "" H 6750 2675 50  0000 C CNN
+	1    6750 2675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7050 1375 7050 1500
+Connection ~ 7050 1500
+Wire Wire Line
+	7050 2025 7050 2150
+Connection ~ 7050 2150
+Wire Wire Line
+	7050 2675 7050 2800
+Connection ~ 7050 2800
+$Comp
+L kbd:SW_PUSH SW29
+U 1 1 5D3B3FDA
+P 7550 1375
+F 0 "SW29" H 7550 1630 50  0000 C CNN
+F 1 "SW_PUSH" H 7550 1539 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 7550 1375 50  0001 C CNN
+F 3 "" H 7550 1375 50  0000 C CNN
+	1    7550 1375
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW30
+U 1 1 5D3B4E86
+P 7550 2025
+F 0 "SW30" H 7550 2280 50  0000 C CNN
+F 1 "SW_PUSH" H 7550 2189 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 7550 2025 50  0001 C CNN
+F 3 "" H 7550 2025 50  0000 C CNN
+	1    7550 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW31
+U 1 1 5D3B5CE7
+P 7550 2675
+F 0 "SW31" H 7550 2930 50  0000 C CNN
+F 1 "SW_PUSH" H 7550 2839 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 7550 2675 50  0001 C CNN
+F 3 "" H 7550 2675 50  0000 C CNN
+	1    7550 2675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7850 1375 7850 1500
+Connection ~ 7850 1500
+Wire Wire Line
+	7850 2025 7850 2150
+Connection ~ 7850 2150
+Wire Wire Line
+	7850 2675 7850 2800
+Connection ~ 7850 2800
+$Comp
+L kbd:SW_PUSH SW32
+U 1 1 5D3B9DCA
+P 8350 1375
+F 0 "SW32" H 8350 1630 50  0000 C CNN
+F 1 "SW_PUSH" H 8350 1539 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 8350 1375 50  0001 C CNN
+F 3 "" H 8350 1375 50  0000 C CNN
+	1    8350 1375
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW33
+U 1 1 5D3BADE7
+P 8350 2025
+F 0 "SW33" H 8350 2280 50  0000 C CNN
+F 1 "SW_PUSH" H 8350 2189 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 8350 2025 50  0001 C CNN
+F 3 "" H 8350 2025 50  0000 C CNN
+	1    8350 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW34
+U 1 1 5D3BBD70
+P 8350 2675
+F 0 "SW34" H 8350 2930 50  0000 C CNN
+F 1 "SW_PUSH" H 8350 2839 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 8350 2675 50  0001 C CNN
+F 3 "" H 8350 2675 50  0000 C CNN
+	1    8350 2675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8650 1375 8650 1500
+Connection ~ 8650 1500
+Wire Wire Line
+	8650 2025 8650 2150
+Connection ~ 8650 2150
+Wire Wire Line
+	8650 2675 8650 2800
+Connection ~ 8650 2800
+$Comp
+L kbd:SW_PUSH SW35
+U 1 1 5D3C0122
+P 9150 1375
+F 0 "SW35" H 9150 1630 50  0000 C CNN
+F 1 "SW_PUSH" H 9150 1539 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 9150 1375 50  0001 C CNN
+F 3 "" H 9150 1375 50  0000 C CNN
+	1    9150 1375
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW36
+U 1 1 5D3C129E
+P 9150 2025
+F 0 "SW36" H 9150 2280 50  0000 C CNN
+F 1 "SW_PUSH" H 9150 2189 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 9150 2025 50  0001 C CNN
+F 3 "" H 9150 2025 50  0000 C CNN
+	1    9150 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW37
+U 1 1 5D3C2432
+P 9150 2675
+F 0 "SW37" H 9150 2930 50  0000 C CNN
+F 1 "SW_PUSH" H 9150 2839 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 9150 2675 50  0001 C CNN
+F 3 "" H 9150 2675 50  0000 C CNN
+	1    9150 2675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9450 1375 9450 1500
+Connection ~ 9450 1500
+Wire Wire Line
+	9450 2025 9450 2150
+Connection ~ 9450 2150
+Wire Wire Line
+	9450 2675 9450 2800
+Connection ~ 9450 2800
+Wire Wire Line
+	4850 1500 4850 2025
+Connection ~ 4850 1500
+Connection ~ 4850 2025
+Wire Wire Line
+	4850 2025 4850 2150
+Connection ~ 4850 2150
+Wire Wire Line
+	4850 2150 4850 2675
+Connection ~ 4850 2675
+Wire Wire Line
+	4850 2675 4850 2800
+Connection ~ 5650 2675
+Wire Wire Line
+	5650 2675 5650 2800
+Wire Wire Line
+	5650 2025 5650 2150
+Wire Wire Line
+	6450 1375 6450 1500
+Connection ~ 6450 1375
+Connection ~ 6450 2675
+Wire Wire Line
+	6450 2675 6450 2800
+Connection ~ 6450 2025
+Wire Wire Line
+	6450 2025 6450 2150
+Wire Wire Line
+	7250 1375 7250 1500
+Connection ~ 7250 1375
+Connection ~ 7250 2675
+Wire Wire Line
+	7250 2675 7250 2800
+Connection ~ 7250 2025
+Wire Wire Line
+	7250 2025 7250 2150
+Wire Wire Line
+	8050 1375 8050 1500
+Connection ~ 8050 1375
+Connection ~ 8050 2675
+Wire Wire Line
+	8050 2675 8050 2800
+Connection ~ 8050 2025
+Wire Wire Line
+	8050 2025 8050 2150
+Wire Wire Line
+	8850 1375 8850 1500
+Connection ~ 8850 1375
+Connection ~ 8850 2675
+Wire Wire Line
+	8850 2675 8850 2800
+Connection ~ 8850 2025
+Wire Wire Line
+	8850 2025 8850 2150
+Connection ~ 4850 1375
+Wire Wire Line
+	4850 1375 4850 1500
+Wire Wire Line
+	5450 1375 5450 1500
+Connection ~ 5450 1500
+$Comp
+L kbd:SW_PUSH SW5
+U 1 1 5C22CA22
+P 5950 1500
+F 0 "SW5" H 5950 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 1664 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 5950 1500 50  0001 C CNN
+F 3 "" H 5950 1500 50  0000 C CNN
+	1    5950 1500
+	1    0    0    -1  
+$EndComp
+Connection ~ 5650 2025
+Connection ~ 5650 1500
+Wire Wire Line
+	5650 1500 5650 2025
+$Comp
+L kbd:SW_PUSH SW20
+U 1 1 5D4ADB1A
+P 9950 1375
+F 0 "SW20" H 9950 1630 50  0000 C CNN
+F 1 "SW_PUSH" H 9950 1539 50  0000 C CNN
+F 2 "phi-kbd-library:MX_1.00u-irreversible" H 9950 1375 50  0001 C CNN
+F 3 "" H 9950 1375 50  0000 C CNN
+	1    9950 1375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 1300 5650 1500
+$Comp
+L Device:D D19
+U 1 1 5D46932B
+P 10250 1650
+F 0 "D19" V 10296 1571 50  0000 R CNN
+F 1 "D" V 10205 1571 50  0000 R CNN
+F 2 "phi-kbd-library:D_TH-reversible" H 10250 1650 50  0001 C CNN
+F 3 "~" H 10250 1650 50  0001 C CNN
+	1    10250 1650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10250 1375 10250 1500
+Wire Wire Line
+	10250 1800 9450 1800
+Connection ~ 9450 1800
+Wire Wire Line
+	9650 1300 9650 1375
+Text GLabel 9650 1300 1    50   Input ~ 0
+col6
+NoConn ~ 1750 1600
+NoConn ~ 1750 1700
+$Comp
+L kbd:MJ-4PP-9 J2
+U 1 1 5D50726D
+P 1550 3625
+F 0 "J2" H 1580 3901 50  0000 C CNN
+F 1 "MJ-4PP-9" H 1580 3810 50  0000 C CNN
+F 2 "phi-kbd-library:MJ-4PP-9-irreversible" H 1825 3800 50  0001 C CNN
+F 3 "~" H 1825 3800 50  0001 C CNN
+	1    1550 3625
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1750 3550
+$Comp
+L power:VCC #PWR0101
+U 1 1 5D507275
+P 1750 3600
+F 0 "#PWR0101" H 1750 3450 50  0001 C CNN
+F 1 "VCC" V 1767 3728 50  0000 L CNN
+F 2 "" H 1750 3600 50  0001 C CNN
+F 3 "" H 1750 3600 50  0001 C CNN
+	1    1750 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5D50727B
+P 1750 3650
+F 0 "#PWR0102" H 1750 3400 50  0001 C CNN
+F 1 "GND" V 1755 3522 50  0000 R CNN
+F 2 "" H 1750 3650 50  0001 C CNN
+F 3 "" H 1750 3650 50  0001 C CNN
+	1    1750 3650
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1750 3700 2    50   Input ~ 0
+data
 $EndSCHEMATC
