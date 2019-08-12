@@ -110,7 +110,7 @@ U 1 1 5C22D475
 P 5450 1650
 F 0 "D1" V 5496 1571 50  0000 R CNN
 F 1 "D" V 5405 1571 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 5450 1650 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 5450 1650 50  0001 C CNN
 F 3 "~" H 5450 1650 50  0001 C CNN
 	1    5450 1650
 	0    -1   -1   0   
@@ -121,7 +121,7 @@ U 1 1 5C22D8D9
 P 6250 1650
 F 0 "D4" V 6296 1571 50  0000 R CNN
 F 1 "D" V 6205 1571 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 6250 1650 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 6250 1650 50  0001 C CNN
 F 3 "~" H 6250 1650 50  0001 C CNN
 	1    6250 1650
 	0    -1   -1   0   
@@ -132,7 +132,7 @@ U 1 1 5C22D927
 P 7050 1650
 F 0 "D7" V 7096 1571 50  0000 R CNN
 F 1 "D" V 7005 1571 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 7050 1650 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 7050 1650 50  0001 C CNN
 F 3 "~" H 7050 1650 50  0001 C CNN
 	1    7050 1650
 	0    -1   -1   0   
@@ -143,7 +143,7 @@ U 1 1 5C22D975
 P 7850 1650
 F 0 "D10" V 7896 1571 50  0000 R CNN
 F 1 "D" V 7805 1571 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 7850 1650 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 7850 1650 50  0001 C CNN
 F 3 "~" H 7850 1650 50  0001 C CNN
 	1    7850 1650
 	0    -1   -1   0   
@@ -154,7 +154,7 @@ U 1 1 5C22D9BD
 P 8650 1650
 F 0 "D13" V 8696 1571 50  0000 R CNN
 F 1 "D" V 8605 1571 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 8650 1650 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 8650 1650 50  0001 C CNN
 F 3 "~" H 8650 1650 50  0001 C CNN
 	1    8650 1650
 	0    -1   -1   0   
@@ -165,7 +165,7 @@ U 1 1 5C22DA07
 P 9450 1650
 F 0 "D16" V 9496 1571 50  0000 R CNN
 F 1 "D" V 9405 1571 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 9450 1650 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 9450 1650 50  0001 C CNN
 F 3 "~" H 9450 1650 50  0001 C CNN
 	1    9450 1650
 	0    -1   -1   0   
@@ -244,7 +244,7 @@ U 1 1 5C22DF72
 P 5450 2300
 F 0 "D2" V 5496 2221 50  0000 R CNN
 F 1 "D" V 5405 2221 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 5450 2300 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 5450 2300 50  0001 C CNN
 F 3 "~" H 5450 2300 50  0001 C CNN
 	1    5450 2300
 	0    -1   -1   0   
@@ -255,7 +255,7 @@ U 1 1 5C22DF79
 P 6250 2300
 F 0 "D5" V 6296 2221 50  0000 R CNN
 F 1 "D" V 6205 2221 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 6250 2300 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 6250 2300 50  0001 C CNN
 F 3 "~" H 6250 2300 50  0001 C CNN
 	1    6250 2300
 	0    -1   -1   0   
@@ -266,7 +266,7 @@ U 1 1 5C22DF80
 P 7050 2300
 F 0 "D8" V 7096 2221 50  0000 R CNN
 F 1 "D" V 7005 2221 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 7050 2300 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 7050 2300 50  0001 C CNN
 F 3 "~" H 7050 2300 50  0001 C CNN
 	1    7050 2300
 	0    -1   -1   0   
@@ -277,7 +277,7 @@ U 1 1 5C22DF87
 P 7850 2300
 F 0 "D11" V 7896 2221 50  0000 R CNN
 F 1 "D" V 7805 2221 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 7850 2300 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 7850 2300 50  0001 C CNN
 F 3 "~" H 7850 2300 50  0001 C CNN
 	1    7850 2300
 	0    -1   -1   0   
@@ -288,7 +288,7 @@ U 1 1 5C22DF8E
 P 8650 2300
 F 0 "D14" V 8696 2221 50  0000 R CNN
 F 1 "D" V 8605 2221 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 8650 2300 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 8650 2300 50  0001 C CNN
 F 3 "~" H 8650 2300 50  0001 C CNN
 	1    8650 2300
 	0    -1   -1   0   
@@ -299,7 +299,7 @@ U 1 1 5C22DF95
 P 9450 2300
 F 0 "D17" V 9496 2221 50  0000 R CNN
 F 1 "D" V 9405 2221 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 9450 2300 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 9450 2300 50  0001 C CNN
 F 3 "~" H 9450 2300 50  0001 C CNN
 	1    9450 2300
 	0    -1   -1   0   
@@ -378,7 +378,7 @@ U 1 1 5C22E20E
 P 5450 2950
 F 0 "D3" V 5496 2871 50  0000 R CNN
 F 1 "D" V 5405 2871 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 5450 2950 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 5450 2950 50  0001 C CNN
 F 3 "~" H 5450 2950 50  0001 C CNN
 	1    5450 2950
 	0    -1   -1   0   
@@ -389,7 +389,7 @@ U 1 1 5C22E215
 P 6250 2950
 F 0 "D6" V 6296 2871 50  0000 R CNN
 F 1 "D" V 6205 2871 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 6250 2950 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 6250 2950 50  0001 C CNN
 F 3 "~" H 6250 2950 50  0001 C CNN
 	1    6250 2950
 	0    -1   -1   0   
@@ -400,7 +400,7 @@ U 1 1 5C22E21C
 P 7050 2950
 F 0 "D9" V 7096 2871 50  0000 R CNN
 F 1 "D" V 7005 2871 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 7050 2950 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 7050 2950 50  0001 C CNN
 F 3 "~" H 7050 2950 50  0001 C CNN
 	1    7050 2950
 	0    -1   -1   0   
@@ -411,7 +411,7 @@ U 1 1 5C22E223
 P 7850 2950
 F 0 "D12" V 7896 2871 50  0000 R CNN
 F 1 "D" V 7805 2871 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 7850 2950 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 7850 2950 50  0001 C CNN
 F 3 "~" H 7850 2950 50  0001 C CNN
 	1    7850 2950
 	0    -1   -1   0   
@@ -422,7 +422,7 @@ U 1 1 5C22E22A
 P 8650 2950
 F 0 "D15" V 8696 2871 50  0000 R CNN
 F 1 "D" V 8605 2871 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 8650 2950 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 8650 2950 50  0001 C CNN
 F 3 "~" H 8650 2950 50  0001 C CNN
 	1    8650 2950
 	0    -1   -1   0   
@@ -433,7 +433,7 @@ U 1 1 5C22E231
 P 9450 2950
 F 0 "D18" V 9496 2871 50  0000 R CNN
 F 1 "D" V 9405 2871 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 9450 2950 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 9450 2950 50  0001 C CNN
 F 3 "~" H 9450 2950 50  0001 C CNN
 	1    9450 2950
 	0    -1   -1   0   
@@ -1028,7 +1028,7 @@ U 1 1 5D46932B
 P 10250 1650
 F 0 "D19" V 10296 1571 50  0000 R CNN
 F 1 "D" V 10205 1571 50  0000 R CNN
-F 2 "phi-kbd-library:D_TH-reversible" H 10250 1650 50  0001 C CNN
+F 2 "phi-kbd-library:D_SMD-reversible" H 10250 1650 50  0001 C CNN
 F 3 "~" H 10250 1650 50  0001 C CNN
 	1    10250 1650
 	0    -1   -1   0   
