@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 26)
+    (drawings 28)
     (tracks 387)
     (zones 0)
     (modules 59)
@@ -2332,6 +2332,12 @@
     )
   )
 
+  (gr_text "K A S T O R   k e y b o a r d    P C B - r e v . 2" (at 113.144608 73.152168) (layer B.SilkS) (tstamp 5D52DA82)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
+  (gr_text "K A S T O R   k e y b o a r d    P C B - r e v . 2" (at 113.144608 73.152168) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_line (start 46.171558 68.091982) (end 46.171558 97.262466) (layer F.Fab) (width 0.12))
   (gr_line (start 46.171558 68.091982) (end 51.231744 68.091982) (layer F.Fab) (width 0.12))
   (gr_line (start 180.117658 49.637186) (end 180.117658 29.991758) (layer F.Fab) (width 0.12))
