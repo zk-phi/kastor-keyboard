@@ -58,8 +58,8 @@ module shape_top (pad = 0, right = false) {
             [               - pad,                            $unit_v - pad],
         ],
         right ? [
-            [               - pad,                        2 * $unit_v - pad],
-            [0.25 * $unit_h - pad,                        2 * $unit_v - pad],
+            [               - pad,                        2 * $unit_v + pad],
+            [0.25 * $unit_h - pad,                        2 * $unit_v + pad],
             [0.25 * $unit_h - pad,                        3 * $unit_v - pad],
             [               - pad,                        3 * $unit_v - pad],
         ] : [],
