@@ -24,7 +24,7 @@ $promicro_height  = 7 * $100mil;
 $promicro_width = 13 * $100mil;
 $trrs_height = 6 + 5 * $pcb_grid; // DONE
 $trrs_width = 12.1;
-$reset_height = 6; // DONE
+$reset_height = 8; // DONE
 $reset_width = 3.5; // DONE
 $promicro_contact_height = 13; // incl. slop, not in the datasheet
 
