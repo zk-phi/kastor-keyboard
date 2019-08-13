@@ -296,7 +296,7 @@ module preview_pcb_kicad (right = false) {
             rotate([0, 180, 0])
                 import("../pcb/switch42-right.stl");
     } else {
-        translate([0.5 * $unit_h, 3.5 * $unit_v, 1.6])
+        translate([0.5 * $unit_h, 3.5 * $unit_v, 1.2])
             import("../pcb/switch42-left.stl");
     }
 }
@@ -320,7 +320,7 @@ module preview (diff = 0, right = false) {
     // - minimum distance between pcb top and bottomplate top is 3.3mm (MX)
     // - minimum distance between pcb bottom and bottomplate top is 3.3 - 1.2 = 2.1mm
     // - when pcb_pos = 6.8 then bottomplate top < 4.7
-    translate([0, 0, 20 - (1.6 - 1.2) + diff * 4]) color([0.6, 0.8, 1.0]) preview_keycap(right);
+    translate([0, 0, 19.6 + diff * 4]) color([0.6, 0.8, 1.0]) preview_keycap(right);
     translate([0, 0, 13 + diff * 5]) color($acryl_color) linear_extrude(4) topframe(right);
     translate([0, 0, 10 + diff * 4]) color($acryl_color) linear_extrude(3) topplate(right);
 //    translate([0, 0, 6.8 + diff * 4]) color([.3, .3, .3]) linear_extrude(1.2) preview_pcb(right);
