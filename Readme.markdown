@@ -1,6 +1,12 @@
 # Kastor keyboard
 
-試作品 rev.1 の説明書です
+![Kastor](images/kastor.jpg)
+
+３行キーボードの中央部分を「親指キー」と割り切った、独自配列の 30% キーボードです。
+
+Answer40 のような変則 symmetric row staggered になっています。
+
+これは試作品 (rev.1) の説明書です
 
 わかる人向けです
 
