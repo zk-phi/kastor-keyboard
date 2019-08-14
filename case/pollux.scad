@@ -321,8 +321,9 @@ module preview (diff = 0, right = false) {
     // - minimum distance between pcb bottom and bottomplate top is 3.3 - 1.2 = 2.1mm
     // - when pcb_pos = 6.8 then bottomplate top < 4.7
     translate([0, 0, 19.6 + diff * 4]) color([0.6, 0.8, 1.0]) preview_keycap(right);
-    translate([0, 0, 13 + diff * 5]) color($acryl_color) linear_extrude(4) topframe(right);
-    translate([0, 0, 10 + diff * 4]) color($acryl_color) linear_extrude(3) topplate(right);
+    translate([0, 0, 16 + diff * 6]) color($acryl_color) linear_extrude(2) topframe(right, 0);
+    translate([0, 0, 13 + diff * 5]) color($acryl_color) linear_extrude(3) topframe(right, 0);
+    translate([0, 0, 10 + diff * 4]) color($acryl_color) linear_extrude(3) topplate(right, 0);
 //    translate([0, 0, 6.8 + diff * 4]) color([.3, .3, .3]) linear_extrude(1.2) preview_pcb(right);
     translate([0, 0, 6.8 + diff * 4]) color([.3, .3, .3]) preview_pcb_kicad(right);
     translate([0, 0, 8 + diff * 3]) color($acryl_color) linear_extrude(2) lower_topplate(right);
@@ -365,11 +366,11 @@ module acryl_2mm (guide = false) {
             translate([          0,           0]) pos_plate() middleframe(false);
             translate([          0, pitch_v * 1]) pos_plate() lower_topplate(false);
             translate([          0, pitch_v * 2]) pos_plate() topframe(false);
-            translate([          0, pitch_v * 3]) pos_plate() topframe(false);
+            translate([          0, pitch_v * 3]) pos_plate() bottomplate2(false);
             translate([pitch_h * 1, pitch_v * 0]) pos_plate() middleframe(true);
             translate([pitch_h * 1, pitch_v * 1]) pos_plate() lower_topplate(true);
             translate([pitch_h * 1, pitch_v * 2]) pos_plate() topframe(true);
-            translate([pitch_h * 1, pitch_v * 3]) pos_plate() topframe(true);
+            translate([pitch_h * 1, pitch_v * 3]) pos_plate() bottomplate2(true);
         }
     }
 }
@@ -381,11 +382,11 @@ module acryl_3mm (guide = false) {
             translate([          0,           0]) pos_plate() bottomplate(false);
             translate([          0, pitch_v * 1]) pos_plate() lower_middleframe(false);
             translate([          0, pitch_v * 2]) pos_plate() topplate(false);
-            translate([          0, pitch_v * 3]) pos_plate() middleframe(false); // spare
+            translate([          0, pitch_v * 3]) pos_plate() topframe(false); // spare
             translate([pitch_h * 1, pitch_v * 0]) pos_plate() bottomplate(true);
             translate([pitch_h * 1, pitch_v * 1]) pos_plate() lower_middleframe(true);
             translate([pitch_h * 1, pitch_v * 2]) pos_plate() topplate(true);
-            translate([pitch_h * 1, pitch_v * 3]) pos_plate() middleframe(true); // spare
+            translate([pitch_h * 1, pitch_v * 3]) pos_plate() topframe(true); // spare
         }
     }
 }
