@@ -18,7 +18,7 @@ Answer40 のような変則 symmetric row staggered になっています。
 - 2 ピンタクトスイッチ x2
 - コンスルー付き ProMicro x2セット
 - M2 12mm スペーサ x8
-- M2 ネジ 3mm くらいのやつ x16 (プレートが 1.6mm 厚なので、それを貫通できて、長すぎなければ ok)
+- M2 ネジ 3mm くらい x16 (プレートが 1.6mm 厚なので、それを貫通できて、長すぎなければ ok)
 
 ## 組み立て
 
@@ -33,3 +33,8 @@ Answer40 のような変則 symmetric row staggered になっています。
 9. 基板上の「TX」の目印に合わせて、コンスルーに ProMicro を載せる（左右のキーボードで ProMicro の裏表が逆になっていれば ok … 左手は ProMicro の部品面を２枚の基板で挟み込むように、右手は部品面がむき出しになるはず）
 10. ProMicro とコンスルーの間を半田付け
 11. ファームを焼いて動作確認、ケースを組んだら完成
+
+サンプルのファームウェアは https://github.com/zk-phi/qmk_firmware に kastor という名前で入っています。
+
+: make kastor/rev1:phi:avrdude
+
