@@ -1,6 +1,6 @@
 # Kastor keyboard
 
-※これは Kastor シリーズ試作第二版の紹介です。前作の組み立てガイドなどは [こちら](https://github.com/zk-phi/kastor-keyboard/tree/d3c9b8dbbd1859bec58dde376e5eee4f9685b5a4) からどうぞ。
+※これは Kastor シリーズ試作第二版の紹介です。前作の組み立てガイドなどは [こちら](https://github.com/zk-phi/kastor-keyboard/tree/014ffdced01a2b5000a81938f7c5bd26ed5e1a9d) からどうぞ。
 
 ![Kastor](images/kastor2.jpg)
 
@@ -50,7 +50,7 @@
 - ダイオード 1N4148w x38
 - TRRS ジャック MJ-4PP-9 x2
 - 2 ピンタクトスイッチ x2
-- コンスルー付き ProMicro x2セット
+- コンスルー付き ProMicro x2 セット
 - M2 ナット x20
 - M2 ネジ 22mm x20 (プレートを全て使う場合)
 
@@ -68,7 +68,7 @@
 
 1. リバーシブル基板なので、二枚の基板のうち片方を裏返しておく（右右や左左キーボードを作らないように！！）
 2. ダイオードを半田付け x38 （基板の四角で囲まれている側 と、ダイオードの線の入っている側を合わせてください）
-3. ダイオードを半田付けした面と同じ面から TRRS ジャック・リセットスイッチを刺して、半田付け x各2
+3. ダイオードを半田付けした面と同じ面から TRRS ジャック・リセットスイッチを刺して、半田付け x 各 2
 
 ### Pro Micro の実装
 
