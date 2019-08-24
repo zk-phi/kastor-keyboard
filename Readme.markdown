@@ -35,6 +35,8 @@
 
 ![プレートたち](images/plates.jpg)
 
+※写真は４セット分です。。
+
 - Kastor Rev.2 Kit
   - 基板２枚
   - 底板２枚
